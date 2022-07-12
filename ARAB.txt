@@ -1,0 +1,86 @@
+############################################# ARAB #############################################
+
+#EXTINF: -1 tvg-logo="https://bit.ly/3uvB5dB" group-title="ARAB", ZalTV Player
+https://www.dropbox.com/s/8836nh234eeih6f/Intro%20Awal%20Video%20gratis%20%7B%20No%20Copyraight%20free%20%7D%205%20Opening%20Video.mkv?dl=1
+#EXTINF:-1 tvg-logo="http://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="ARAB",Makkah TV
+
+#EXTINF:-1 group-title="ARAB" tvg-logo="https://i.postimg.cc/zv2bGpkv/download-74.png",Ayjal Tv
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ARAB" tvg-logo="https://i.postimg.cc/NFdJfhVX/images-2.jpg",AL FAJER HD 2
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="ARAB",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="ARAB",MBC Masr
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr_2.png" group-title="ARAB",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="ARAB",MBC Plus Drama
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="ARAB",MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" group-title="ARAB",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+https://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="ARAB",Abu Dhabi Al Oula
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+
+#EXTINF:-1 tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="ARAB",Al Aan
+https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digitalstudiome.com/public/images/2017/10/15/Dubai-One-Logo.jpg" group-title="ARAB",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/754573256665997312/T4ATpb5Q.jpg" group-title="ARAB",Noor Dubai
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1283_1.png" group-title="ARAB",Dubai Zaman
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tunisvista.com/medias/sharjah-tv-live.png" group-title="ARAB",Sharjah
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iqraa.com/Media/Blog_Post_Pictures/Iqraa_logo.jpg" group-title="ARAB",Iqraa TV
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starsofscience.com/sites/default/files/oman_tv.jpg" group-title="ARAB",Oman TV
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
+
+#EXTINF:-1 tvg-logo="https://arb4host.com/news/wp-content/uploads/2019/01/598349_548482528513980_1373409655_n.jpg" group-title="ARAB",Kuwait Al Rai
+https://stream02.fasttelco.net/live/alrai.stream/chunklist_w2023460738.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/218_TV_Channel_Logo.jpg" group-title="ARAB",Libya 218
+https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tunisvista.com/medias/al-nahar-tv-live-online-streaming-egypt.png" group-title="ARAB",El Nahar
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tunisvista.com/medias/watan-tv-live-online-streaming-direct-egypt.jpg" group-title="ARAB",Watan TV
+http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MbuitSsryxs/hqdefault.jpg" group-title="ARAB",Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/%D9%82%D9%86%D8%A7%D8%A9_%D9%85%D9%83%D9%85%D9%84%D9%8A%D9%86.jpg" group-title="ARAB",Mekameleen
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?
+
+#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/03/Alrafidain-TV.jpg" group-title="ARAB",Al Rafidain
+http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Bvr3qLhwFNZ2ddJyPSSzDJX0uZwbtRHPXYkWljUR45jafpOp88olIRKPkOz1f4bD_HI" group-title="ARAB",Al Hurra
+http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alsharqiya.com/Content/web-assets/img/logo.png" group-title="ARAB",Al Sharqiya TV
+http://ns8.indexforce.com:1935/home/mystream/chunklist_w565406043.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1342_1.png" group-title="ARAB",Syria Plus
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+
+
